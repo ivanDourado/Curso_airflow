@@ -1,0 +1,10 @@
+*.log
+logs/*
+films/*
+people/*
+vehicles/*
+results/*
+*.json
+*.pyc
+__pycache__/
+plugins/
