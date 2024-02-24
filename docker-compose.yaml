@@ -67,6 +67,12 @@ x-airflow-common:
     AIRFLOW__SCHEDULER__MIN_FILE_PROCESS_INTERVAL: 5
   #default é 300 - 5 minutos
     AIRFLOW__SCHEDULER__DAG_DIR_LIST_INTERVAL: 20
+  #email config envio
+    AIRFLOW_SMTP_SMTP_HOST: smtp.gmail.com
+    AIRFLOW_SMTP_SMTP_USER: meueamil@gmail.com
+    AIRFLOW_SMTP_SMTP_PASSWORD: minhasenha
+    AIRFLOW_SMTP_SMTP_PORT: 587
+    AIRFLOW_SMTP_MAIL_FROM: Airflow
 
 
   volumes:
