@@ -40493,3 +40493,5 @@ File Path                         PID    Runtime      # DAGs    # Errors  Last R
 ================================================================================
 [2024-02-24T18:11:00.821+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
 [2024-02-24T18:11:00.826+0000] {manager.py:741} INFO - There are 12 files in /opt/airflow/dags
+[2024-02-24T18:11:21.607+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-02-24T18:11:21.615+0000] {manager.py:741} INFO - There are 12 files in /opt/airflow/dags
